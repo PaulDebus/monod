@@ -38,7 +38,7 @@
     "clean-webpack-plugin": "^0.1.15",
     "clipboard": "^1.5.12",
     "codemirror": "^5.12.0",
-    "css-loader": "^0.26.0",
+    "css-loader": "^0.26.2",
     "deepmerge": "^1.0.2",
     "emojione": "^2.1.2",
     "enzyme": "^2.4.1",
